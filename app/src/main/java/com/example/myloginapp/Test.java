@@ -1,11 +1,10 @@
 package com.example.myloginapp;
 
 public class Test {
-    String father_name;
-    int roll;
-    int rollNumber;
+
+
     String name;
-    
+   
 
 
     public Test(String name, int roll) {
