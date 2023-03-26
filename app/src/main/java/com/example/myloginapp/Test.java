@@ -1,15 +1,11 @@
 package com.example.myloginapp;
 
 public class Test {
-
-    String name;
     String father_name;
     int roll;
     int rollNumber;
-    int phone;
-    int callnumber;
-    String email;
-    String password;
+    String name;
+    
 
 
     public Test(String name, int roll) {
