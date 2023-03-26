@@ -7,7 +7,12 @@ public class Test {
     int mailNo;
     String mother_name;
     int roll;
+    int rollNumber;
+    int phone;
+    int callnumber;
     String email;
+    String password;
+
 
     public Test(String name, int roll) {
         this.name = name;
