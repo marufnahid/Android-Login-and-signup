@@ -3,11 +3,11 @@ package com.example.myloginapp;
 public class Test {
 
     String name;
-    int roll;
+    int rollNumber;
 
     public Test(String name, int roll) {
         this.name = name;
-        this.roll = roll;
+        this.rollNumber = roll;
     }
 
     public String getName() {
@@ -19,10 +19,10 @@ public class Test {
     }
 
     public int getRoll() {
-        return roll;
+        return rollNumber;
     }
 
     public void setRoll(int roll) {
-        this.roll = roll;
+        this.rollNumber = roll;
     }
 }
