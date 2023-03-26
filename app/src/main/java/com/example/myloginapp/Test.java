@@ -4,6 +4,8 @@ public class Test {
 
     String name;
     String father_name;
+    int mailNo;
+    String mother_name;
     int roll;
     String email;
 
