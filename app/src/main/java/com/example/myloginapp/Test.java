@@ -3,7 +3,9 @@ package com.example.myloginapp;
 public class Test {
 
     String name;
-    int rollNumber;
+    String father_name;
+    int roll;
+    String email;
 
     public Test(String name, int roll) {
         this.name = name;
